@@ -82,7 +82,7 @@
       "name": "量子资源站"
     },
     "jyzy": {
-      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "金鹰资源站"
     },
     "xiaomaomi": {
